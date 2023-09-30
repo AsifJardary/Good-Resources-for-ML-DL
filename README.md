@@ -11,4 +11,4 @@ Why did I create this channel? To help you (students and researchers) gain a new
 You may think coding is hard and that it's not your cup of tea, but Python made it easy to code even advanced algorithms. In addition, coding will make you self sufficient, it will teach you how to think, it improves your collaborative skills and it can take your career to new heights. Therefore, if you want to stay ahead of your peers and relevant in your field, overcome your fears and start coding!
 
 Also, checkout WWW.APEER.COM if you want free image processing in the cloud! 
-Free for non-profits / academics / personal use. 
+Free for non-profits / academics /personal use.
